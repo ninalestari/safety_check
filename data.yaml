@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/YOLOv8_SAFETY/data/train/images
+val: /content/drive/MyDrive/YOLOv8_SAFETY/data/valid/images
+
+nc: 4
+names: ["safety-helmet and vest", "safety-helmet", "safety-vest", "no safety"]
